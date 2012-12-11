@@ -6,8 +6,7 @@ A simple maven web application project, which demonstrates the use of [iText](ht
 1. Signature and signature placeholder creation on the first page of a [pdf file](http://en.wikipedia.org/wiki/Portable_Document_Format).
 2. Adding an pseudo ADA unique code in every page of a pdf document and then signing it.
 
-To run the web application:
-===========================
+###To run the web application:###
 
 1. Build the project using Netbeans
 2. Deploy it to your favourite Java application server
